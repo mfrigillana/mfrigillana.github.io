@@ -22,7 +22,7 @@ Marion operates across multiple domains with advanced technical fluency and appl
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - **Asia Pacific College**
   - Master in Information Technology
