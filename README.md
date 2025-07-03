@@ -1,6 +1,8 @@
 ## 👤 Profile
-**Name**: Marion Frigillana 
-**Values**: Service, stewardship, integrity, justice, dignity, technical excellence 
+**Name**: Marion Frigillana
+
+**Values**: Service, stewardship, integrity, justice, dignity, technical excellence
+
 **Work Style**: Systems-oriented, solution-driven, ethically grounded
 
 ## 🛠️ Skills and Expertise
