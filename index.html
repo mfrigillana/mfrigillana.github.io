@@ -668,10 +668,13 @@ footer{border-top:1px solid var(--border);padding:28px 0;background:var(--bg-rai
   .fcard{animation:none!important}
 }
 @media print{
-  body{background:#fff;color:#000;font-size:11pt}
+  html,body{background:#fff;color:#000;font-size:11pt}
+  body{padding-bottom:0!important}
   header.nav,.hero,.pipeline,.metrics,#experience,#projects,#skills,#contact,footer,.resume-bar,.r-note,.sec-head,.mobile-tabs{display:none!important}
-  #resume{padding:0;border:none;background:#fff}
-  .resume-doc{border:none;box-shadow:none;padding:0;max-width:100%}
+  /* scroll-reveal leaves content at opacity:0 until seen — force it visible for print */
+  .reveal{opacity:1!important;transform:none!important}
+  #resume{display:block!important;padding:0;border:none;background:#fff}
+  .resume-doc{display:block!important;opacity:1!important;transform:none!important;border:none;box-shadow:none;padding:0;max-width:100%}
   .resume-doc *{color:#000!important}
   .r-head{border-color:#000}
   .r-sec>h4{color:#000}
