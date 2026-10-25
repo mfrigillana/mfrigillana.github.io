@@ -2,7 +2,7 @@
 
 **Enterprise CX Solutions Architect · Perth, Western Australia**
 
-Live site: **[mfrigillana.github.io](https://mfrigillana.github.io)**
+Live site: **[mfrigillana.dev](https://mfrigillana.github.io)**
 
 I ship enterprise CX platforms into production, and I'm building the AI layer that's reshaping them.
 
